@@ -1,0 +1,19 @@
+.login_div_1{
+    padding: 10px;
+    float:none;
+    text-align: center;
+    margin-left: 450px;
+}
+
+#player_1{
+    display:inline-block;
+    margin-left: 20px;
+}
+#player_2{
+    display:inline-block;
+    margin-left: 20px;
+}
+
+body{
+    text-align: center;
+}
